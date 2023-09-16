@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color: aqua;
+	padding: 20px;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	margin-right: 20px;
+	color:black;
+}
+audio{
+	width:80%;
+	margin-bottom: 20px;
+}
+audio:first-child{
+	margin-top:20px;
+}
